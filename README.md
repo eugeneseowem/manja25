@@ -1,6 +1,6 @@
 # Welcome to Manja's Homepage
 
-Hello World. My name is Manja. I am a English student.
+Hello World. My name is Manja. I am an English student living in Vietnam.
 
 ![portriat](https://www.publicdomainpictures.net/pictures/270000/velka/female-on-a-wall-oil-painting.jpg)
 
