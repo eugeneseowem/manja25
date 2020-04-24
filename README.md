@@ -2,7 +2,7 @@
 
 Hello World. My name is Manja. I am a English student.
 
-![portriat](https://www.artsy.net/artwork/elizabeth-lennie-mythography-152-abstract-oil-painting-of-a-woman-in-a-black-swimsuit-swimming-under-blue-water)
+![portriat](https://www.publicdomainpictures.net/pictures/270000/velka/female-on-a-wall-oil-painting.jpg)
 
 
 ## Flashcard App
