@@ -2,7 +2,7 @@
 
 Hello World. My name is Manja. I am a English student.
 
-![portriat](<a href="https://paintingvalley.com/faceless-woman-painting">Faceless Woman Painting</a>)
+![portriat](https://www.artsy.net/artwork/elizabeth-lennie-mythography-152-abstract-oil-painting-of-a-woman-in-a-black-swimsuit-swimming-under-blue-water)
 
 
 ## Flashcard App
